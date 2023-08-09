@@ -1,1 +1,3 @@
-# mp3yt
+# mp3 downloader
+- npm install
+- node index.js
